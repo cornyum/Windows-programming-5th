@@ -1,0 +1,4 @@
+﻿  SysMets2.c
+SysMets2.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  SysMets2.vcxproj -> C:\Users\YUMING\Desktop\Windows程序设计（第5版珍藏版）光盘源代码\Chap04\SysMets2\.\Debug\SysMets2.exe
+  SysMets2.vcxproj -> .\Debug/SysMets2.pdb (Full PDB)

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Colors1", "Colors1.vcproj", "{E86ABDDB-497D-4015-B6B9-B4DFF007D9A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E86ABDDB-497D-4015-B6B9-B4DFF007D9A6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E86ABDDB-497D-4015-B6B9-B4DFF007D9A6}.Debug|Win32.Build.0 = Debug|Win32
+		{E86ABDDB-497D-4015-B6B9-B4DFF007D9A6}.Release|Win32.ActiveCfg = Release|Win32
+		{E86ABDDB-497D-4015-B6B9-B4DFF007D9A6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

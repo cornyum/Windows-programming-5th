@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SysPal2", "SysPal2.vcproj", "{E702F28C-7584-4BA0-B35A-892E72EA612E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E702F28C-7584-4BA0-B35A-892E72EA612E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E702F28C-7584-4BA0-B35A-892E72EA612E}.Debug|Win32.Build.0 = Debug|Win32
+		{E702F28C-7584-4BA0-B35A-892E72EA612E}.Release|Win32.ActiveCfg = Release|Win32
+		{E702F28C-7584-4BA0-B35A-892E72EA612E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

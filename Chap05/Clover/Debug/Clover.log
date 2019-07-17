@@ -1,0 +1,4 @@
+﻿  Clover.c
+Clover.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  Clover.vcxproj -> C:\Users\YUMING\Desktop\Windows程序设计（第5版珍藏版）光盘源代码\Chap05\Clover\.\Debug\Clover.exe
+  Clover.vcxproj -> .\Debug/Clover.pdb (Full PDB)

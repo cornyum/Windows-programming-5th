@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PopPad3", "PopPad3.vcproj", "{AD81E972-2F24-48CB-A278-60AC5DEE9B8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD81E972-2F24-48CB-A278-60AC5DEE9B8A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AD81E972-2F24-48CB-A278-60AC5DEE9B8A}.Debug|Win32.Build.0 = Debug|Win32
+		{AD81E972-2F24-48CB-A278-60AC5DEE9B8A}.Release|Win32.ActiveCfg = Release|Win32
+		{AD81E972-2F24-48CB-A278-60AC5DEE9B8A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

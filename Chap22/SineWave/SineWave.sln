@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SineWave", "SineWave.vcproj", "{D9F7B17A-9EEA-4D99-B007-87B84298D2F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9F7B17A-9EEA-4D99-B007-87B84298D2F2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D9F7B17A-9EEA-4D99-B007-87B84298D2F2}.Debug|Win32.Build.0 = Debug|Win32
+		{D9F7B17A-9EEA-4D99-B007-87B84298D2F2}.Release|Win32.ActiveCfg = Release|Win32
+		{D9F7B17A-9EEA-4D99-B007-87B84298D2F2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bricks1", "Bricks1.vcproj", "{1B5DC6E3-364D-408D-8D66-19178A851E1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B5DC6E3-364D-408D-8D66-19178A851E1F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1B5DC6E3-364D-408D-8D66-19178A851E1F}.Debug|Win32.Build.0 = Debug|Win32
+		{1B5DC6E3-364D-408D-8D66-19178A851E1F}.Release|Win32.ActiveCfg = Release|Win32
+		{1B5DC6E3-364D-408D-8D66-19178A851E1F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

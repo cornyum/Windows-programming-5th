@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Justify1", "Justify1.vcproj", "{A145489B-F787-4E9B-B78E-1B11E4468BA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A145489B-F787-4E9B-B78E-1B11E4468BA3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A145489B-F787-4E9B-B78E-1B11E4468BA3}.Debug|Win32.Build.0 = Debug|Win32
+		{A145489B-F787-4E9B-B78E-1B11E4468BA3}.Release|Win32.ActiveCfg = Release|Win32
+		{A145489B-F787-4E9B-B78E-1B11E4468BA3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

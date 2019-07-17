@@ -1,0 +1,4 @@
+﻿  BlokOut1.c
+BlokOut1.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  BlokOut1.vcxproj -> C:\Users\YUMING\Desktop\Windows程序设计（第5版珍藏版）光盘源代码\Chap07\BlokOut1\.\Debug\BlokOut1.exe
+  BlokOut1.vcxproj -> .\Debug/BlokOut1.pdb (Full PDB)

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StokFont", "StokFont.vcproj", "{886D14D2-DF48-40B5-BAF1-2061E06FC600}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{886D14D2-DF48-40B5-BAF1-2061E06FC600}.Debug|Win32.ActiveCfg = Debug|Win32
+		{886D14D2-DF48-40B5-BAF1-2061E06FC600}.Debug|Win32.Build.0 = Debug|Win32
+		{886D14D2-DF48-40B5-BAF1-2061E06FC600}.Release|Win32.ActiveCfg = Release|Win32
+		{886D14D2-DF48-40B5-BAF1-2061E06FC600}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

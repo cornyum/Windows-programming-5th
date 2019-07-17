@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BitLib", "BitLib.vcproj", "{48E823AC-A123-4043-AEBC-9CF434DC9CAA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShowBit", "ShowBit.vcproj", "{780C238A-DAB3-4D23-8148-E5CA2466DCA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48E823AC-A123-4043-AEBC-9CF434DC9CAA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{48E823AC-A123-4043-AEBC-9CF434DC9CAA}.Debug|Win32.Build.0 = Debug|Win32
+		{48E823AC-A123-4043-AEBC-9CF434DC9CAA}.Release|Win32.ActiveCfg = Release|Win32
+		{48E823AC-A123-4043-AEBC-9CF434DC9CAA}.Release|Win32.Build.0 = Release|Win32
+		{780C238A-DAB3-4D23-8148-E5CA2466DCA6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{780C238A-DAB3-4D23-8148-E5CA2466DCA6}.Debug|Win32.Build.0 = Debug|Win32
+		{780C238A-DAB3-4D23-8148-E5CA2466DCA6}.Release|Win32.ActiveCfg = Release|Win32
+		{780C238A-DAB3-4D23-8148-E5CA2466DCA6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

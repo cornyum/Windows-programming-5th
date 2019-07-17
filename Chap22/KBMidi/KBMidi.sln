@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KBMidi", "KBMidi.vcproj", "{CD9FE4AA-3275-4B75-8D91-F26B3F6D0562}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD9FE4AA-3275-4B75-8D91-F26B3F6D0562}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CD9FE4AA-3275-4B75-8D91-F26B3F6D0562}.Debug|Win32.Build.0 = Debug|Win32
+		{CD9FE4AA-3275-4B75-8D91-F26B3F6D0562}.Release|Win32.ActiveCfg = Release|Win32
+		{CD9FE4AA-3275-4B75-8D91-F26B3F6D0562}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

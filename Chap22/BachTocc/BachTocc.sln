@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BachTocc", "BachTocc.vcproj", "{BA3A0DF4-EC11-4C0E-A36B-A0D538B781F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA3A0DF4-EC11-4C0E-A36B-A0D538B781F4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BA3A0DF4-EC11-4C0E-A36B-A0D538B781F4}.Debug|Win32.Build.0 = Debug|Win32
+		{BA3A0DF4-EC11-4C0E-A36B-A0D538B781F4}.Release|Win32.ActiveCfg = Release|Win32
+		{BA3A0DF4-EC11-4C0E-A36B-A0D538B781F4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

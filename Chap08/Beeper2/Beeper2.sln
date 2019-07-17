@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Beeper2", "Beeper2.vcproj", "{DEAB901B-8EEB-4577-837C-3B123CD8E362}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEAB901B-8EEB-4577-837C-3B123CD8E362}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DEAB901B-8EEB-4577-837C-3B123CD8E362}.Debug|Win32.Build.0 = Debug|Win32
+		{DEAB901B-8EEB-4577-837C-3B123CD8E362}.Release|Win32.ActiveCfg = Release|Win32
+		{DEAB901B-8EEB-4577-837C-3B123CD8E362}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
